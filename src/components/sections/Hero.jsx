@@ -30,7 +30,7 @@ const Hero = () => {
             {/* Sử dụng ảnh avata.jpg trong public/images làm hình profile */}
             <div className="w-full h-full rounded-full overflow-hidden glass-effect neon-glow">
               <img 
-                src="/images/avata.jpg"
+                src="/images/avatar.jpg"
                 alt="Profile picture"
                 className="w-full h-full object-cover"
               />
